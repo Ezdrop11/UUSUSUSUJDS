@@ -1,9 +1,0 @@
---\\Whitelist auto kick\\--
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezdrop11/UUSUSUSUJDS/main/Owner/racmdx/AutoKick24system"))()
-
-game:GetService("Players")
-
-if table.find(Autokick, game:GetService("Players").LocalPlayer.Name) then
-	game:GetService("Players").LocalPlayer:Kick("You, Have Already Submitted!")
-	print("kicked")
-end
