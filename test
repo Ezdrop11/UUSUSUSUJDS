@@ -1,6 +1,0 @@
-
-local WhitelistHWIDS = {
- --Put this into file of loadstring   
- {"658b51312f1a557b0204972ac833bd89b8ea50a4a3526216e3d3d6d62c1382e22772b660ab92d994e239caf6bd911f469f979a7a2251afa87f95cb1a7db6153b", 'w'}
- 
-}
